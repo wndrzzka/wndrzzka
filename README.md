@@ -41,7 +41,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&angle=0&logoColor=white" />
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/-aiosqlite-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -91,8 +91,8 @@
 
 ---
 
-## Contribution Graph
+## Contribution Grid
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wndrzzka&theme=radical&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+  <img src="https://github-readme-ycg.vercel.app/api/ycg?username=wndrzzka&theme=radical" width="100%" alt="GitHub Contribution Grid" />
 </div>
