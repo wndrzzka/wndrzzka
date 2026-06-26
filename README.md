@@ -22,6 +22,8 @@
 | **Role** | Bot Developer & System Administrator |
 | **Location** | Aceh, Indonesia |
 | **Current Focus** | Pyrogram/Telethon, Backend Architecture & Automation |
+| **Tech Stack** | Python, JavaScript, Node.js |
+| **Databases** | Redis, MongoDB, MySQL, SQLite, aiosqlite |
 | **Education** | Self-taught |
 
 ---
@@ -89,8 +91,8 @@
 
 ---
 
-## GitHub Activity
+## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wndrzzka&theme=github-dark-purple&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wndrzzka&theme=radical&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
