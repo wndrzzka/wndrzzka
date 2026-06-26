@@ -75,7 +75,7 @@
   <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
     <tr>
       <td align="center" style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=wndrzzka&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=wndrzzka&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" style="border: none; padding: 5px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=wndrzzka&theme=radical" alt="GitHub Streak" />
@@ -83,7 +83,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="border: none; padding: 5px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wndrzzka&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wndrzzka&layout=compact&theme=radical&langs_count=6&count_private=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
