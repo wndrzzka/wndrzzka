@@ -96,5 +96,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Line" />
   <p>📈 <i>Profile visitor count automatically updating...</i></p>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndrzzka&count_bg=%237B36F7&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false"/></a>
+  <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fwndrzzka%2Fvisits&style=for-the-badge&logo=github" alt="Visitor Count" />
 </div>
