@@ -1,6 +1,6 @@
 <div align="center">
   <h1>⚡ WannOfficial | Creator Bot ⚡</h1>
-  <p><i>Automating the digital ecosystem by blending AI power with high-performance codebase.</i></p>
+  <p><i>Fusing High-Performance Architecture with AI Intelligence to Engineer Next-Gen Digital Automation.</i></p>
 </div>
 
 <p align="center">
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 <p align="left">
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -55,24 +55,37 @@
 
 ---
 
+## 🏆 Achievements & Trophies
+
+<div align="center">
+  <p>
+    <img src="https://img.shields.io/badge/Trophy-Bot_Architect-8A2BE2?style=for-the-badge&logo=probot&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trophy-Python_Expert-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trophy-Automation_Guru-22c55e?style=for-the-badge&logo=make&logoColor=white" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Trophy-Git_Master-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/Trophy-Self__Taught-ffb703?style=for-the-badge&logo=codecademy&logoColor=white" />
+  </p>
+</div>
+
+---
+
 ## 📊 Git-Analytics & Metrics
 
 <div align="center">
-  <table border="0" style="width: 100%; border-collapse: collapse;">
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse; border: none;">
     <tr>
-      <td style="width: 50%; text-align: center; border: 0; padding: 5px;">
+      <td align="center" style="border: none; padding: 5px;">
         <img src="https://github-readme-stats.vercel.app/api?username=wndrzzka&show_icons=true&theme=radical&count_private=true" alt="Wann's GitHub Stats" />
       </td>
-      <td style="width: 50%; text-align: center; border: 0; padding: 5px;">
+      <td align="center" style="border: none; padding: 5px;">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=wndrzzka&theme=radical" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
-      <td style="width: 50%; text-align: center; border: 0; padding: 5px;">
+      <td colspan="2" align="center" style="border: none; padding: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wndrzzka&layout=compact&theme=radical&langs_count=6" alt="Top Languages" />
-      </td>
-      <td style="width: 50%; text-align: center; border: 0; padding: 5px;">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wndrzzka&theme=radical" alt="Profile Details" width="100%"/>
       </td>
     </tr>
   </table>
@@ -83,5 +96,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Line" />
   <p>📈 <i>Profile visitor count automatically updating...</i></p>
-  <img src="https://profile-counter.glitch.me/wndrzzka/count.svg" alt="Visitor Count" />
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwndrzzka&count_bg=%237B36F7&title_bg=%23222222&icon=github.svg&icon_color=%23FFFFFF&title=Views&edge_flat=false"/></a>
 </div>
