@@ -91,7 +91,7 @@
 
 ---
 
-## Contribution Board
+## Contribution Board - Public
 
 <div align="center">
   <img src="https://ghchart.rshah.org/8A2BE2/wndrzzka" alt="wndrzzka's GitHub Contributions" width="100%" />
