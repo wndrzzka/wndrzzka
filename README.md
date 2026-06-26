@@ -96,5 +96,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trkten/Trkten/main/images/neon-line.gif" width="100%" alt="Line" />
   <p>📈 <i>Profile visitor count automatically updating...</i></p>
-  <img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&label=Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fwndrzzka%2Fvisits&style=for-the-badge&logo=github" alt="Visitor Count" />
+  <!-- START_SECTION:update_views -->
+  <img src="https://img.shields.io/badge/Views-0-8A2BE2?style=for-the-badge&logo=github" alt="Visitor Count" />
+  <!-- END_SECTION:update_views -->
 </div>
